@@ -2,7 +2,7 @@
 
 ## Installation
 
-    git clone https://github.com/dridi-sirine/learn-nodejs.git
+    git clone https://github.com/dridi-sirine/learn-nodejs.git && cd learn-nodejs
     npm install
     npm start
   
